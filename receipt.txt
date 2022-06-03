@@ -1,0 +1,31 @@
+
+		Receipt
+
+	Dan's Barbeque
+	8704 Michigan Ave.
+	Dearborn, MI 48124
+
+		SALE
+
+Customer: Peter James
+
+
+	6	Steak		$ 28.99		$ 173.94	
+	7	Chicken		$ 22.99		$ 160.93	
+	0	Ribs		$ 18.99		$ 0.00	
+	8	Brisket		$ 15.99		$ 127.92	
+	0	Pulled Pork		$ 15.99		$ 0.00	
+	0	Coke		$ 2.50		$ 0.00	
+	7	Sprite		$ 2.50		$ 17.50	
+	0	Root Beer		$ 2.50		$ 0.00	
+	5	Lemonade		$ 2.50		$ 12.50	
+
+Sub-total : $ 492.79
+
+Sales Tax: $ 29.57
+
+Total: $ 522.36
+
+Tip: _________
+
+TOTAL: _________

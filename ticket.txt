@@ -1,0 +1,18 @@
+
+		Line Ticket
+
+Ticket #: 1
+16-12-2020 23:51:03
+
+Customer: Peter James
+
+
+	6	Steak		
+	7	Chicken		
+	0	Ribs		
+	8	Brisket		
+	0	Pulled Pork		
+	0	Coke		
+	7	Sprite		
+	0	Root Beer		
+	5	Lemonade		
